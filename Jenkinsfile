@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "sharmilas22/endgame"
+    registry = "sudhamshk/endgame"
     registryCredential = 'dockerhub'
     dockerImage = ""
   }
